@@ -1,5 +1,5 @@
 ### CommonAPI C++ SOME/IP Runtime
-##ajith
+##ajith kumar
 ##### Copyright
 Copyright (C) 2016-2017, Bayerische Motoren Werke Aktiengesellschaft (BMW AG).
 Copyright (C) 2016-2017, GENIVI Alliance, Inc.
